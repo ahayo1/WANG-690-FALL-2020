@@ -22,3 +22,22 @@ Created an account on github. Explored how to create a new repository and how to
 Saw how to create completely new files or how to upload files. 
 
 Introduced to where all of the course materials will be for the course: *https://github.com/wcj365/python-stats-dataviz*
+
+
+# Assignment 01 Notes
+Python for Data Analysis by Wes McKinny 2nd Edition
+
+### Chapter 1
+Essential Python Libraries
+- NumPy (Numerical Python)
+- pandas
+- matplotlib
+- IPython and Jupyter
+- SciPy
+- scikit-learn
+- statsmodels
+
+Munge/munging/wrangling
+: describes the overall process of manipulating unstructured and/or messy data into a structured or clean form
+
+### Chapter 2
