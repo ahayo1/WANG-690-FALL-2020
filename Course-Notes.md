@@ -41,3 +41,4 @@ Munge/munging/wrangling
 : describes the overall process of manipulating unstructured and/or messy data into a structured or clean form
 
 ### Chapter 2
+Review of basic Python commands: immutable/muttable objects, loops, how to import libraries, operations, types of objects, bytes and unicode, type casting, dates and times, and other basic commands. Went through some of the code in "Practice-01.ipynb".
