@@ -1,15 +1,15 @@
 """
-  Prompts a user to enter 10 integers. If the user enters anything other than integers, 
-  remind her that only integers are allowed and let her retry. Don't allow the user to enter more 
-  than 10 or less than 10 integers. Display the 10 integers back to the user at the end. 
-  Calculate the following statistics from the 10 integers entered:
+Prompts a user to enter 10 integers. If the user enters anything other than integers, 
+remind her that only integers are allowed and let her retry. Don't allow the user to enter more 
+than 10 or less than 10 integers. Display the 10 integers back to the user at the end. 
+Calculate the following statistics from the 10 integers entered:
 
-  Minimum
-  Maximum
-  Range
-  Mean
-  Variance
-  Standard Deviation
+Minimum
+Maximum
+Range
+Mean
+Variance
+Standard Deviation
 """
 
 # Ask the users for x number of integers
