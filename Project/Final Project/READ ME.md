@@ -1,3 +1,6 @@
+**Jupyter Notebook:**
+It might take a few times for the Jupyter Notebook code to load. Hit the refresh button until the preview loads.
+
 **Crime Data:**
 The crime.csv file cannot be uploaded to GitHub because it is too large, so you will not find it in the Data Files subfolder.
 
